@@ -1,0 +1,25 @@
+# Site navigation links
+
+- title: About
+  url: /about/
+  include: 'N'
+
+- title: Home
+  url: /
+  include: 'N'
+
+- title: Need
+  url: /need/
+  include: 'N'
+
+- title: Approach
+  url: /approach/
+  include: 'N'
+
+- title: Benefit
+  url: /benefit/
+  include: 'N'
+
+- title: Competition
+  url: /competition/
+  include: 'N'
