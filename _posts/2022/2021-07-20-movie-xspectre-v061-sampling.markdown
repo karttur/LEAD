@@ -1,18 +1,18 @@
 ---
 layout: post
-title: 5 min pitch
+title: Sampling with xSpectre's Spectrometer
 categories: movie
-excerpt: "Movie - 5 minute pitch for xSpectres soil spectrometer (April 2022)."
+excerpt: "Movie - Sampling with xSpectre's spectrometer v062 (July 2022, outdated)."
 tags:
   - EU-horizon
   - research
   - policy
 image: ts-mdsl-rntwi_RNTWI_id_2001-2016_AS
-date: '2022-04-04 11:27'
-modified: '2022-04-04 T18:17:25.000Z'
+date: '2021-07-20 11:27'
+modified: '2021-07-20 T18:17:25.000Z'
 comments: true
 share: true
-movie1: se_pitch-venture-cup_20220404-736p-crf32.mp4
+movie1: se_202107_xspectre-field-sampling-736p
 ---
 
 <figure>

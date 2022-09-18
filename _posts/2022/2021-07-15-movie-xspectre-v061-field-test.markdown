@@ -1,18 +1,18 @@
 ---
 layout: post
-title: Sampling with xSpectre's Spectrometer
+title: Testing xSpectre's Spectrometer
 categories: movie
-excerpt: "Movie - Sampling with xSpectre's spectrometer v062 (July 2022, outdated)."
+excerpt: "Movie - Testing xSpectre's spectrometer v062 (July 2022, outdated)."
 tags:
   - EU-horizon
   - research
   - policy
 image: ts-mdsl-rntwi_RNTWI_id_2001-2016_AS
-date: '2021-07-08 11:27'
-modified: '2021-07-08 T18:17:25.000Z'
+date: '2021-07-15 11:27'
+modified: '2021-07-15 T18:17:25.000Z'
 comments: true
 share: true
-movie1: se_202107_xspectre-field-sampling-736p
+movie1: se_202107_xspectre-field-test-736p
 ---
 
 <figure>

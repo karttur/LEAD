@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Producing xSpectre's Spectrometer
+title: Making xSpectre's Spectrometer
 categories: movie
-excerpt: "Movie - Producing xSpectre's spectrometer v062 (July 2022)."
+excerpt: "Movie - the making of xSpectre's spectrometer v062 (July 2022)."
 tags:
   - EU-horizon
   - research
