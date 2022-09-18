@@ -2,10 +2,10 @@
 
 # Site wide configuration
 
-title: Geo Imagine Developer
+title: xSpectre soil spectroscopy
 locale: en_US
-description: script your own Earth
-logo: site-logo.png
+description: swiss army knife for soil testing
+logo: xspectre-logo.png
 search: true
 url: https://karttur.github.io/LEAD
 #commonurl is the link to common resources for all my sites

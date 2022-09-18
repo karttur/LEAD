@@ -1,7 +1,7 @@
 ---
 layout: post
 title: EU research and policy
-categories: need
+categories: needx
 excerpt: "European Union directives, research and focus on soil health and soil carbon balances."
 tags:
   - EU-horizon

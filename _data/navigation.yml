@@ -23,3 +23,7 @@
 - title: Competition
   url: /competition/
   include: 'N'
+
+- title: Movie
+  url: /movie/
+  include: 'N'

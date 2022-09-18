@@ -27,9 +27,11 @@ The consultants are both competitors and potential customers of xSpectre's Swiss
 
 ### Wet laboratories
 
-The analysis of soil conditions for farm management is today dominated by wet laboratories (even if [NIR soil spectroscopy](../../approach/approach-NIR-general)) is part of the laboratory soil characterisation). The frequency of soil laboratory testing in Sweden is approximately 1 sample per hectare every 7th year. In Sweden this is just a recommendation, other countries have leal requirements, not seldom at a higher resolution in time and space.
+The analysis of soil conditions for farm management is today dominated by wet laboratories (even if [NIR soil spectroscopy](../../approach/approach-NIR-general)) is part of the laboratory soil characterisation). The frequency of soil laboratory testing in Sweden is approximately [1 sample per hectare every 7th year](https://www2.jordbruksverket.se/webdav/files/SJV/trycksaker/Pdf_jo/jo10_19.pdf). In Sweden this is just a recommendation, other countries have leal requirements, not seldom at a higher resolution in time and space.
 
 A future demand for higher frequency soil sampling can be met by more wet laboratory analysis. But this is a time-consuming and expensive alternative compared to complementing the wet laboratory analysis with spectral in-situ sampling. Thus it is unlikely that xSpectre's soil spectrometer will outcompete wet laboratories, the relation would rather be a mutual benefit.
+
+Wet laboratories in Sweden include [Hushållningssällskapet Laboratorium](https://laboratorium.hushallningssallskapet.se/properties/jord/), [Eurofins](https://www.eurofins.se) and [Agrilab](http://www.agrilab.se/gem/).
 
 ### DIY soil test kits
 
@@ -40,6 +42,14 @@ One possible alternative solution for better surveillance of soil conditions is 
 Using images from drones or satellites for soil mapping over larger areas (from fields to continents) is today commonly done. To map the soil conditions under green vegetation requires that the vegetation part of the spectral signal is removed (unmixed). Varying geometries between the sun, the land surface and the sensor causes further problems. Interpreting remotely sensed images is thus not trivial. Developments in both sensors and in computer modelling power (e.g. Artificial Intelligence) is leading to improved accuracies. If the interpretation is supported by local in-situ sample data, the accuracy of the interpreted remote imagery increase markedly.
 
 Remote sensing is a serious competitor to xSpectre's handheld in-situ soil spectrometer. In-situ versus remote sensing of soil conditions both have advantages and disadvantages. A combination that uses in-situ measurements for calibration of remotely sensed images holds promises for near real-time accurate soil properties mapping.
+
+Companies specialising in offering proessed satellite for farmers:
+
+- [Geoville](https://www.geoville.com)
+- [Planet](https://www.planet.com)
+- [Cloud Agronomics/Perennial](https://www.perennial.earth) uses plane-based hyperspectral imagery to estimate carbon at field level.
+
+The [European Space Agency](ESA) keeps a list of [Earth Observing (EO) satellite data service providers](https://eo4society.esa.int/eo_clinic/service-providers/).
 
 ### eDNA
 
@@ -53,15 +63,23 @@ Macrofauna (think: "earthworms") characterisation is a traditional methods for d
 
 Scientific grade portable spectrometers for field use have been commercially available for decades. They are, however heavy and bulky, require a backpack and are usually operated by a PC that must be carried along. New developments have led to smaller units, but still requiring carrying cases or back packs. The prices are prohibiting for more widespread use. The difference in cost between using a scientific field spectrometer compared to taking samples for laboratory spectral analysis is small. xSpectres handheld spectrometer is a miniaturised science grade field spectrometer (and cost 1/100th of commercially available field spectrometers). But with a more restricted band width (350 - 1000 nm) compared to the larger scientific field spectrometers (350-2500 nm). New technologies for acquiring spectra in the 1000 - 2500 nm region is paving the way for cheaper sensors that fit into the design of xSpectre's handheld device. Also the existing science grade field spectrometers will take advantage of this development.
 
-### Other portable soil multi-sensors
+### Portable soil spectrometers and multi-sensors
 
-### Wet laboratories
+Other companies and organisations developing portable (and sometimes handheld) soil spectrometers and multi-sensors:
 
-[Hushållningssällskapet Laboratorium](https://laboratorium.hushallningssallskapet.se/properties/jord/).
+[Agrocares](https://www.agrocares.com) is a Dutch company specialising in on-site soil, crop and pest monitoring; they have a [NIR scanner for soil and plant monitoring](https://www.agrocares.com/products/scanner/).
 
-### Portable soil mulit-sensors
+[Grainsense](https://grainsense.com) offers a handheld NIR spectrometer for field tests of grain quality.
 
-[Stenon digital spade](https://stenon.io/en/)
+[LaserAg](https://www.laserag.com) does not offer field spectroscopy but are in the forefront using laser-induced breakdown spectroscopy (LIBS) technology for laboratory analysis of soil and vegetation tissue.
+
+[Myspectral](https://myspectral.com) offers a mulit purpose [rugged and handheld spectrometer - Lumini T](https://myspectral.com/project/lumini-t/)with 64 bands @ 340~890 nm..
+
+[Our Sci](https://www.our-sci.net) offers the 10 band general purpose [our sci reflectometer](https://www.our-sci.net/reflectometer/) at USD 475. It is built using a two broadband sensor and 10 different single wavelength LEDs ranging from 365 to 940 nm. The $ 475 kit includes a full suite of peripherals.
+
+[Stenon](https://stenon.io/en/) is a German startup that attracted crowd funding for developing a "digital spade" including a spectrometer and other sensors.
+
+[Yardstick](https://www.useyardstick.com) is developing a soil carbon sensing system using a spectrometer combined with a drill.
 
 ### Documents
 

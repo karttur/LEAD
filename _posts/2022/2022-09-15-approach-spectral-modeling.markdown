@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spectral modeling
-categories: approach
+categories: approachx
 excerpt: "Spectral modeling for translating spectral signals to soil properties."
 tags:
   - EU-horizon
